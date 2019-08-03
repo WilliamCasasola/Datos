@@ -1,0 +1,245 @@
+{
+ "Descripción": "Lista de raza de perros" 
+ ,{"Id": "1" , "nombre":"Affenpinscher",}
+ ,{"Id": "2" , "nombre":"Airedale terrier",}
+ ,{"Id": "3" , "nombre":"Aïdi",}
+ ,{"Id": "4" , "nombre":"Akita Inu",}
+ ,{"Id": "5" , "nombre":"Akita Americano",}
+ ,{"Id": "6" , "nombre":"Alano español",}
+ ,{"Id": "7" , "nombre":"Alaskan malamute",}
+ ,{"Id": "8" , "nombre":"Alaskan Klee Kai",}
+ ,{"Id": "9" , "nombre":"American Hairless terrier",}
+ ,{"Id": "10" , "nombre":"American Staffordshire Terrier",}
+ ,{"Id": "11" , "nombre":"Antiguo Perro Pastor Inglés",}
+ ,{"Id": "12" , "nombre":"Appenzeller",}
+ ,{"Id": "13" , "nombre":"Australian Cattle Dog",}
+ ,{"Id": "14" , "nombre":"Australian terrier",}
+ ,{"Id": "15" , "nombre":"Australian Silky Terrier",}
+ ,{"Id": "16" , "nombre":"Azawakh",}
+ ,{"Id": "17" , "nombre":"Bardino (Perro majorero)",}
+ ,{"Id": "18" , "nombre":"Bandog",}
+ ,{"Id": "19" , "nombre":"Basenji",}
+ ,{"Id": "20" , "nombre":"Basset azul de Gascuña",}
+ ,{"Id": "21" , "nombre":"Basset hound",}
+ ,{"Id": "22" , "nombre":"Beagle",}
+ ,{"Id": "23" , "nombre":"Beauceron",}
+ ,{"Id": "24" , "nombre":"Bedlington terrier",}
+ ,{"Id": "25" , "nombre":"Bergamasco",}
+ ,{"Id": "26" , "nombre":"Bichon frisé",}
+ ,{"Id": "27" , "nombre":"Bichón maltés",}
+ ,{"Id": "28" , "nombre":"Bichón habanero",}
+ ,{"Id": "29" , "nombre":"Bobtail",}
+ ,{"Id": "30" , "nombre":"Bloodhound",}
+ ,{"Id": "31" , "nombre":"Border collie",}
+ ,{"Id": "32" , "nombre":"Borzoi",}
+ ,{"Id": "33" , "nombre":"Boston terrier",}
+ ,{"Id": "34" , "nombre":"Bóxer",}
+ ,{"Id": "35" , "nombre":"Boyero de Berna",}
+ ,{"Id": "36" , "nombre":"Boyero de Flandes",}
+ ,{"Id": "37" , "nombre":"Braco alemán de pelo corto",}
+ ,{"Id": "38" , "nombre":"Braco alemán de pelo duro",}
+ ,{"Id": "39" , "nombre":"Braco de Auvernia",}
+ ,{"Id": "40" , "nombre":"Braco francés",}
+ ,{"Id": "41" , "nombre":"Braco húngaro",}
+ ,{"Id": "42" , "nombre":"Braco italiano",}
+ ,{"Id": "43" , "nombre":"Braco tirolés",}
+ ,{"Id": "44" , "nombre":"Braco de Saint Germain",}
+ ,{"Id": "45" , "nombre":"Braco de Weimar",}
+ ,{"Id": "46" , "nombre":"Bull Terrier",}
+ ,{"Id": "47" , "nombre":"Bulldog americano",}
+ ,{"Id": "48" , "nombre":"Bulldog francés",}
+ ,{"Id": "49" , "nombre":"Bulldog inglés",}
+ ,{"Id": "50" , "nombre":"Bullmastiff",}
+ ,{"Id": "51" , "nombre":"Buhund noruego",}
+ ,{"Id": "52" , "nombre":"Can de palleiro",}
+ ,{"Id": "53" , "nombre":"Caniche",}
+ ,{"Id": "54" , "nombre":"Cão da Serra da Estrela",}
+ ,{"Id": "55" , "nombre":"Cão da Serra de Aires",}
+ ,{"Id": "56" , "nombre":"Cão de Agua Português",}
+ ,{"Id": "57" , "nombre":"Cão de Castro Laboreiro",}
+ ,{"Id": "58" , "nombre":"Cão de Fila de São Miguel",}
+ ,{"Id": "59" , "nombre":"Cavalier King Charles Spaniel",}
+ ,{"Id": "60" , "nombre":"Cazador de alces noruego",}
+ ,{"Id": "61" , "nombre":"Chesapeake Bay Retriever",}
+ ,{"Id": "62" , "nombre":"Chihuahueño",}
+ ,{"Id": "63" , "nombre":"Crestado Chino",}
+ ,{"Id": "64" , "nombre":"Cimarrón Uruguayo",}
+ ,{"Id": "65" , "nombre":"Cirneco del Etna",}
+ ,{"Id": "66" , "nombre":"Chow chow",}
+ ,{"Id": "67" , "nombre":"Clumber spaniel",}
+ ,{"Id": "68" , "nombre":"Cobrador de pelo liso",}
+ ,{"Id": "69" , "nombre":"Cocker spaniel americano",}
+ ,{"Id": "70" , "nombre":"Cocker spaniel inglés",}
+ ,{"Id": "71" , "nombre":"Collie de pelo corto",}
+ ,{"Id": "72" , "nombre":"Collie de pelo largo",}
+ ,{"Id": "73" , "nombre":"Bearded collie",}
+ ,{"Id": "74" , "nombre":"Corgi galés de Cardigan",}
+ ,{"Id": "75" , "nombre":"Dachshund",}
+ ,{"Id": "76" , "nombre":"Dálmata",}
+ ,{"Id": "77" , "nombre":"Dandie Dinmont Terrier",}
+ ,{"Id": "78" , "nombre":"Deerhound",}
+ ,{"Id": "79" , "nombre":"Dobermann",}
+ ,{"Id": "80" , "nombre":"Dogo alemán",}
+ ,{"Id": "81" , "nombre":"Dogo argentino",}
+ ,{"Id": "82" , "nombre":"Dogo de burdeos",}
+ ,{"Id": "83" , "nombre":"Dogo del Tíbet",}
+ ,{"Id": "84" , "nombre":"Dogo guatemalteco",}
+ ,{"Id": "85" , "nombre":"English springer spaniel",}
+ ,{"Id": "86" , "nombre":"Entlebucher",}
+ ,{"Id": "87" , "nombre":"Épagneul bretón",}
+ ,{"Id": "88" , "nombre":"Épagneul français",}
+ ,{"Id": "89" , "nombre":"Epagneul papillón",}
+ ,{"Id": "90" , "nombre":"Eurasier",}
+ ,{"Id": "91" , "nombre":"Fila Brasileiro",}
+ ,{"Id": "92" , "nombre":"Flat-Coated Retriever",}
+ ,{"Id": "93" , "nombre":"Fox Terrier",}
+ ,{"Id": "94" , "nombre":"Foxhound americano",}
+ ,{"Id": "95" , "nombre":"Galgo español",}
+ ,{"Id": "96" , "nombre":"Galgo húngaro",}
+ ,{"Id": "97" , "nombre":"Galgo inglés",}
+ ,{"Id": "98" , "nombre":"Galgo italiano",}
+ ,{"Id": "99" , "nombre":"Golden retriever",}
+ ,{"Id": "100" , "nombre":"Glen of Imaal Terrier",}
+ ,{"Id": "101" , "nombre":"Gran danés",}
+ ,{"Id": "102" , "nombre":"Gegar colombiano",}
+ ,{"Id": "103" , "nombre":"Greyhound",}
+ ,{"Id": "104" , "nombre":"Grifón belga",}
+ ,{"Id": "105" , "nombre":"Hovawart",}
+ ,{"Id": "106" , "nombre":"Husky siberiano",}
+ ,{"Id": "107" , "nombre":"Jack Russell Terrier",}
+ ,{"Id": "108" , "nombre":"Keeshond",}
+ ,{"Id": "109" , "nombre":"Kerry blue terrier",}
+ ,{"Id": "110" , "nombre":"Komondor",}
+ ,{"Id": "111" , "nombre":"Kuvasz",}
+ ,{"Id": "112" , "nombre":"Labrador",}
+ ,{"Id": "113" , "nombre":"Lakeland Terrier",}
+ ,{"Id": "114" , "nombre":"Laekenois",}
+ ,{"Id": "115" , "nombre":"Landseer",}
+ ,{"Id": "116" , "nombre":"Lebrel afgano",}
+ ,{"Id": "117" , "nombre":"Lebrel polaco",}
+ ,{"Id": "118" , "nombre":"Leonberger",}
+ ,{"Id": "119" , "nombre":"Lobero irlandés",}
+ ,{"Id": "120" , "nombre":"Lundehund",}
+ ,{"Id": "121" , "nombre":"Perro lobo de Saarloos",}
+ ,{"Id": "122" , "nombre":"Lhasa apso",}
+ ,{"Id": "123" , "nombre":"Löwchen",}
+ ,{"Id": "124" , "nombre":"Maltés",}
+ ,{"Id": "125" , "nombre":"Malinois",}
+ ,{"Id": "126" , "nombre":"Manchester terrier",}
+ ,{"Id": "127" , "nombre":"Mastín afgano",}
+ ,{"Id": "128" , "nombre":"Mastín del Pirineo",}
+ ,{"Id": "129" , "nombre":"Mastín español",}
+ ,{"Id": "130" , "nombre":"Mastín inglés",}
+ ,{"Id": "131" , "nombre":"Mastín italiano",}
+ ,{"Id": "132" , "nombre":"Mastín napolitano",}
+ ,{"Id": "133" , "nombre":"Mastín tibetano",}
+ ,{"Id": "134" , "nombre":"Mucuchies",}
+ ,{"Id": "135" , "nombre":"Mudi",}
+ ,{"Id": "136" , "nombre":"Münsterländer grande",}
+ ,{"Id": "137" , "nombre":"Münsterländer pequeño",}
+ ,{"Id": "138" , "nombre":"Nova Scotia Duck Tolling Retriever",}
+ ,{"Id": "139" , "nombre":"Ovejero magallánico",}
+ ,{"Id": "140" , "nombre":"Pastor alemán",}
+ ,{"Id": "141" , "nombre":"Pastor belga",}
+ ,{"Id": "142" , "nombre":"Pastor blanco suizo",}
+ ,{"Id": "143" , "nombre":"Pastor catalán",}
+ ,{"Id": "144" , "nombre":"Pastor croata",}
+ ,{"Id": "145" , "nombre":"Pastor garafiano",}
+ ,{"Id": "146" , "nombre":"Pastor holandés",}
+ ,{"Id": "147" , "nombre":"Pastor peruano Chiribaya",}
+ ,{"Id": "148" , "nombre":"Pastor de Brie",}
+ ,{"Id": "149" , "nombre":"Pastor de los Pirineos",}
+ ,{"Id": "150" , "nombre":"Pastor leonés",}
+ ,{"Id": "151" , "nombre":"Pastor mallorquín",}
+ ,{"Id": "152" , "nombre":"Pastor maremmano-abrucés",}
+ ,{"Id": "153" , "nombre":"Pastor de Valée",}
+ ,{"Id": "154" , "nombre":"Pastor vasco",}
+ ,{"Id": "155" , "nombre":"Pekinés",}
+ ,{"Id": "156" , "nombre":"Pembroke Welsh Corgi",}
+ ,{"Id": "157" , "nombre":"Pequeño Lebrel Italiano",}
+ ,{"Id": "158" , "nombre":"Perdiguero francés",}
+ ,{"Id": "159" , "nombre":"Perdiguero portugués",}
+ ,{"Id": "160" , "nombre":"Perro cimarrón uruguayo",}
+ ,{"Id": "161" , "nombre":"Perro de agua americano",}
+ ,{"Id": "162" , "nombre":"Perro de agua español",}
+ ,{"Id": "163" , "nombre":"Perro de agua irlandés",}
+ ,{"Id": "164" , "nombre":"Perro de agua portugués",}
+ ,{"Id": "165" , "nombre":"Perro de Groenlandia",}
+ ,{"Id": "166" , "nombre":"Perro de osos de Carelia",}
+ ,{"Id": "167" , "nombre":"Perro dogo mallorquín",}
+ ,{"Id": "168" , "nombre":"Perro esquimal canadiense",}
+ ,{"Id": "169" , "nombre":"Perro de Montaña de los Pirineos",}
+ ,{"Id": "170" , "nombre":"Perro fino colombiano",}
+ ,{"Id": "171" , "nombre":"Perro pastor de las islas Shetland",}
+ ,{"Id": "172" , "nombre":"Perro peruano sin pelo",}
+ ,{"Id": "173" , "nombre":"Phalène",}
+ ,{"Id": "174" , "nombre":"Pinscher alemán",}
+ ,{"Id": "175" , "nombre":"Pinscher miniatura",}
+ ,{"Id": "176" , "nombre":"Pitbull",}
+ ,{"Id": "177" , "nombre":"Podenco canario",}
+ ,{"Id": "178" , "nombre":"Podenco ibicenco",}
+ ,{"Id": "179" , "nombre":"Podenco portugués",}
+ ,{"Id": "180" , "nombre":"Pointer",}
+ ,{"Id": "181" , "nombre":"Pomerania",}
+ ,{"Id": "182" , "nombre":"Presa canario",}
+ ,{"Id": "183" , "nombre":"Pudelpointer",}
+ ,{"Id": "184" , "nombre":"Pug",}
+ ,{"Id": "185" , "nombre":"Puli",}
+ ,{"Id": "186" , "nombre":"Pumi",}
+ ,{"Id": "187" , "nombre":"Rafeiro do Alentejo",}
+ ,{"Id": "188" , "nombre":"Ratonero bodeguero andaluz",}
+ ,{"Id": "189" , "nombre":"Ratonero mallorquín",}
+ ,{"Id": "190" , "nombre":"Ratonero valenciano",}
+ ,{"Id": "191" , "nombre":"Rhodesian Ridgeback",}
+ ,{"Id": "192" , "nombre":"Rottweiler",}
+ ,{"Id": "193" , "nombre":"Saluki",}
+ ,{"Id": "194" , "nombre":"Samoyedo",}
+ ,{"Id": "195" , "nombre":"San Bernardo",}
+ ,{"Id": "196" , "nombre":"Schapendoes",}
+ ,{"Id": "197" , "nombre":"Schnauzer estándar",}
+ ,{"Id": "198" , "nombre":"Schnauzer gigante",}
+ ,{"Id": "199" , "nombre":"Schnauzer miniatura",}
+ ,{"Id": "200" , "nombre":"Staffordshire Bull Terrier",}
+ ,{"Id": "201" , "nombre":"Sabueso bosnio",}
+ ,{"Id": "202" , "nombre":"Schipperke",}
+ ,{"Id": "203" , "nombre":"Sealyham terrier",}
+ ,{"Id": "204" , "nombre":"Setter inglés",}
+ ,{"Id": "205" , "nombre":"Setter irlandés",}
+ ,{"Id": "206" , "nombre":"Shar Pei",}
+ ,{"Id": "207" , "nombre":"Shiba Inu",}
+ ,{"Id": "208" , "nombre":"Shih Tzu",}
+ ,{"Id": "209" , "nombre":"Shikoku Inu",}
+ ,{"Id": "210" , "nombre":"Siberian husky",}
+ ,{"Id": "211" , "nombre":"Skye terrier",}
+ ,{"Id": "212" , "nombre":"Spaniel japonés",}
+ ,{"Id": "213" , "nombre":"Spaniel tibetano",}
+ ,{"Id": "214" , "nombre":"Spitz enano",}
+ ,{"Id": "215" , "nombre":"Spitz grande",}
+ ,{"Id": "216" , "nombre":"Spitz mediano",}
+ ,{"Id": "217" , "nombre":"Spitz japonés",}
+ ,{"Id": "218" , "nombre":"Sussex spaniel",}
+ ,{"Id": "219" , "nombre":"Teckel",}
+ ,{"Id": "220" , "nombre":"Terranova",}
+ ,{"Id": "221" , "nombre":"Terrier alemán",}
+ ,{"Id": "222" , "nombre":"Terrier brasileño",}
+ ,{"Id": "223" , "nombre":"Terrier checo",}
+ ,{"Id": "224" , "nombre":"Terrier chileno",}
+ ,{"Id": "225" , "nombre":"Terrier de Norfolk",}
+ ,{"Id": "226" , "nombre":"Terrier de Norwich",}
+ ,{"Id": "227" , "nombre":"Terrier escocés",}
+ ,{"Id": "228" , "nombre":"Terrier galés",}
+ ,{"Id": "229" , "nombre":"Terrier irlandés",}
+ ,{"Id": "230" , "nombre":"Terrier ruso negro",}
+ ,{"Id": "231" , "nombre":"Terrier tibetano",}
+ ,{"Id": "232" , "nombre":"Toy spaniel inglés",}
+ ,{"Id": "233" , "nombre":"Tervueren",}
+ ,{"Id": "234" , "nombre":"Vallhund sueco",}
+ ,{"Id": "235" , "nombre":"Volpino italiano",}
+ ,{"Id": "236" , "nombre":"Weimaraner",}
+ ,{"Id": "237" , "nombre":"West Highland White Terrier",}
+ ,{"Id": "238" , "nombre":"Whippet",}
+ ,{"Id": "239" , "nombre":"Wolfsspitz",}
+ ,{"Id": "241" , "nombre":"Xoloitzcuintle",}
+ ,{"Id": "242" , "nombre":"Yorkshire terrier",}
+ ]
+}
